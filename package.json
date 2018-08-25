@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-dumbo-web-062518",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm test"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "andre",
+  "license": "ISC"
+}
