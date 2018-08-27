@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-dumbo-web-062518",
+  "version": "1.0.0",
+  "description": "learning npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterth3geek/npm-lab-dumbo-web-062518.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterth3geek/npm-lab-dumbo-web-062518/issues"
+  },
+  "homepage": "https://github.com/peterth3geek/npm-lab-dumbo-web-062518#readme"
+}
